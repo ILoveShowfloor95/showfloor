@@ -1,6 +1,6 @@
 const Collision castle_inside_collision[] = {
 	COL_INIT(),
-	COL_VERTEX_INIT(1175),
+	COL_VERTEX_INIT(1171),
 	COL_VERTEX(1638, 896, -2601),
 	COL_VERTEX(883, 1254, -2652),
 	COL_VERTEX(1229, 896, -3010),
